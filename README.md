@@ -14,10 +14,8 @@ This project is a knowledge sharing platform built using the MERN (MongoDB, Expr
 - **Express.js**: Web application framework for building the backend API.
 - **React.js**: Frontend library for building user interfaces.
 - **Node.js**: JavaScript runtime environment for executing server-side code.
-- **Passport.js**: Authentication middleware for handling user authentication.
 - **Mongoose**: MongoDB object modeling tool for Node.js.
 - **Bootstrap**: Frontend framework for responsive design.
-- **Git**: Version control system for managing project code.
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/your_username/knowledge-sharing-platform.git`
